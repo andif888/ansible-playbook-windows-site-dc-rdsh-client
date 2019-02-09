@@ -1,0 +1,6 @@
+---
+- import_playbook: generic-dc.yml
+- import_playbook: generic-domain-members.yml
+- import_playbook: generic-rdsh.yml
+
+
